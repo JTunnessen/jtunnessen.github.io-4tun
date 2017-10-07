@@ -7,6 +7,6 @@ Place to share my indie games and apps
 * USMC Trivia
 * LaserFish! Arcade
 
-Indie Games and Apps created by Jim Tunnessen - [@JimT2](https://twitter.com/JimT2)
+Indie Games and Apps created by Jim Tunnessen - [@techBytesIO](https://twitter.com/techbytesio)
 
 
